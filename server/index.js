@@ -7,7 +7,7 @@ const rateLimit = require('express-rate-limit');
 
 const apiRouter = require('./api');
 
-const PORT = process.env.PORT || 7000;
+const PORT = process.env.PORT || 8001;
 const isProduction = process.env.PROD === 'true';
 
 const STATICS_DIR = join(require('app-root-dir').get(), 'build');
