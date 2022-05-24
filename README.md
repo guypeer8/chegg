@@ -14,7 +14,7 @@
     npm run serve
 ```
 
-4. [Click here](http://localhost:7000). 
+4. [Click here](http://localhost:8001). 
 
 ## ✅ To run the tests please type:
 ```bash
